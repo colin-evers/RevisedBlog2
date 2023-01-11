@@ -1,0 +1,2 @@
+# djia
+flask blog framework

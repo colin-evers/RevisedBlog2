@@ -1,0 +1,10 @@
+*.bak
+*.pyc
+flaskblog/static/pdf/weekly111422.pdf
+flaskblog/static/pdf/weekly112122.pdf
+flaskblog/static/pdf/weekly112822.pdf
+flaskblog/static/pdf/weekly120522.pdf
+flaskblog/static/pdf/weekly121222.pdf
+flaskblog/static/pdf/weekly121922.pdf
+flaskblog/static/pdf/weekly122622.pdf
+flaskblog/static/pdf/weekly010923.pdf
