@@ -1,5 +1,7 @@
 *.bak
 *.pyc
+flaskblog/static/pdf/
+flaskblog/static/pdf/weekly103122.pdf
 flaskblog/static/pdf/weekly111422.pdf
 flaskblog/static/pdf/weekly112122.pdf
 flaskblog/static/pdf/weekly112822.pdf
@@ -7,6 +9,7 @@ flaskblog/static/pdf/weekly120522.pdf
 flaskblog/static/pdf/weekly121222.pdf
 flaskblog/static/pdf/weekly121922.pdf
 flaskblog/static/pdf/weekly122622.pdf
+flaskblog/static/pdf/weekly010223.pdf
 flaskblog/static/pdf/weekly010923.pdf
 flaskblog/static/pdf/weekly011623.pdf 
 flaskblog/static/pdf/weekly012323.pdf
@@ -18,6 +21,7 @@ flaskblog/static/pdf/weekly022723.pdf
 flaskblog/static/pdf/weekly030623.pdf
 flaskblog/static/pdf/weekly031323.pdf
 flaskblog/static/pdf/weekly032023.pdf
+flaskblog/static/pdf/weekly032723.pdf
 flaskblog/static/pdf/weekly040323.pdf
 flaskblog/static/pdf/weekly041023.pdf
 flaskblog/static/pdf/weekly041723.pdf
